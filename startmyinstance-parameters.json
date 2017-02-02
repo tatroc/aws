@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "ctatro"
+  }, 
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t1.micro"
+  }
+]
